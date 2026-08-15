@@ -1,4 +1,7 @@
-# CTS-Project
+# CTS-Project## 
+📁 Project Structure
+
+```text
 fraud-detection/
 │
 ├── data/
@@ -24,4 +27,3 @@ fraud-detection/
 ├── requirements.txt
 │
 └── README.md
-<img width="817" height="637" alt="image" src="https://github.com/user-attachments/assets/b5b5c078-6616-4121-9fa4-80f1cb765c85" />
